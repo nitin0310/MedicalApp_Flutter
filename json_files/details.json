@@ -1,0 +1,15 @@
+[
+  "patient1",
+  {
+    "name": "John Williomson",
+    "idNo": "112343",
+    "contact": "9876543210"
+  },
+
+  "patient2",
+  {
+    "name": "Mark",
+    "idNo": "112344",
+    "contact": "9876567880"
+  }
+]
